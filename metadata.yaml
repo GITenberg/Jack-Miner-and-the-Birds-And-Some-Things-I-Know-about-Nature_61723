@@ -1,11 +1,16 @@
 _repo: Jack-Miner-and-the-Birds-And-Some-Things-I-Know-about-Nature_61723
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61723-h/images/i_inside_cover_2.jpg
 creator:
   author:
     agent_name: Miner, Jack
     gutenberg_agent_id: '51586'
     url: http://www.gutenberg.org/2009/agents/51586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61723#Jack-Miner-and-the-Birds-And-Some-Things-I-Know-about-Nature
 gutenberg_issued: '2020-04-01'
 gutenberg_type: Text
 identifiers:
